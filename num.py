@@ -40,3 +40,5 @@ print(l[427])
 plt.show()
 
 
+#https://send.firefox.com/download/a1307a2668951801/#1s4ryefQpb5ZRcRHU91Sag
+
